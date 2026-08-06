@@ -17,13 +17,12 @@ This is a simple Java-based Employee Management System created to demonstrate Gi
 
 ## Project Structure
 
-Employee-Management-System/
-│
-├── Employee.java
-├── EmployeeService.java
-├── EmployeeController.java
-├── README.md
-└── .gitignore
+Employee-Management-System
+- Employee.java
+- EmployeeService.java
+- EmployeeController.java
+- README.md 
+- .gitignore
 
 ## Author
 Madhan
