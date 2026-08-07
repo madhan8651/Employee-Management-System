@@ -1,3 +1,4 @@
+package AttendanceModule;
 public class AttendanceController {
 
     public void addAttendance() {

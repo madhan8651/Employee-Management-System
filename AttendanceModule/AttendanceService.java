@@ -1,3 +1,4 @@
+package AttendanceModule;
 public class AttendanceService {
 
     public void markAttendance() {
